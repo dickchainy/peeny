@@ -7,4 +7,4 @@ The contract on the ethereum mainnet: https://etherscan.io/address/0xC03096605F0
 
 The contract is also on the ropsten test network available to play around with: https://ropsten.etherscan.io/address/0x4f165B56b61998C57BED71db211BDdb5FCB33a9d
 
-Visit dickchainy.com to learn more.
+Visit http://dickchainy.com to learn more.
